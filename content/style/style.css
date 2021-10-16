@@ -84,7 +84,7 @@ button {
 .dialog {
     display: inline-block;
     vertical-align: middle;
-    width: auto;
+    width: 600px;
     height: auto;
     background: white;
     color: black;
