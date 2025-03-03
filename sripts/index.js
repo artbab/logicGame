@@ -1,6 +1,6 @@
 var configJson = {
-    row: 6,
-    column: 6,
+    row: 1,
+    column: 11,
     questions: ['Արթուր Բաբայան',
 'Ալվարդ Դալլաքյան',
 'Վահե Պետրոսյան',
